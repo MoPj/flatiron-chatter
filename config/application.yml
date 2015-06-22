@@ -1,0 +1,21 @@
+# Add configuration values here, as shown below.
+#
+# pusher_app_id: "2954"
+# pusher_key: 7381a978f7dd7f9a1117
+# pusher_secret: abdc3b896a0ffb85d373
+# stripe_api_key: sk_test_2J0l093xOyW72XUYJHE4Dv2r
+# stripe_publishable_key: pk_test_ro9jV5SNwGb1yYlQfzG17LHK
+#
+# production:
+#   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
+#   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
+development:
+  secret_key_base: 4d15b3eb4b217c92041db81c7b5752ae5cb607339994c41f43ec406cc91ac8589557eeb320e3ba2225e22d1efa85a01d4c24e3fad5608c23abf3898e37812a93
+  S3_BUCKET_NAME: flatiron-chatter
+  AWS_ACCESS_KEY_ID: AKIAJI2Q43FG6WC7WMJQ
+  AWS_SECRET_ACCESS_KEY: 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
+test:
+  secret_key_base: f753a2938d704736b9e7094c4b6036bf43f477150c72d58cb55adadf52df80582bf4109c14de255aff20abce1ee693a8399d8ce4a2907c345082e0158f939d4f
+  S3_BUCKET_NAME: flatiron-chatter
+  AWS_ACCESS_KEY_ID: AKIAJI2Q43FG6WC7WMJQ
+  AWS_SECRET_ACCESS_KEY: 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

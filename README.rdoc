@@ -1,0 +1,3 @@
+Todo:
+"tag" people with an @ in posts. Those posts should show the link to the user profile.
+

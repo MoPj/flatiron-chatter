@@ -1,0 +1,37 @@
+.post_content {
+	font-size: 1.4em;
+	width: 30em;
+}
+.post_div {
+	padding: 1em;
+	background-color: rgb(231,236,238);
+	border-style: solid;
+	border-color: rgb(212,221,232);
+	border-radius: 0.25em;
+}
+
+#post_post_content {
+	height: 3.3em;
+	width: 97%;
+	word-break: break-word;
+	padding-bottom: 0;
+	vertical-align: top;
+	padding-left: 1em;
+
+}
+.btn-primary {
+	height: 49px;
+	
+}
+
+.post_text_field {
+	width:  700px;
+}
+
+
+#feed {
+  margin: 1em 1em 1em 0;
+}
+.postTable {
+	margin-bottom: 1em;
+}
